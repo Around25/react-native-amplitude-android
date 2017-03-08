@@ -1,0 +1,27 @@
+{
+  "name": "react-native-amplitude-android",
+  "version": "1.0.0",
+  "author": "Around25",
+  "private": false,
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Around25/react-native-amplitude-android.git"
+    },
+    "bugs": {
+      "url": "https://github.com/Around25/react-native-amplitude-android/issues"
+    },
+  "homepage": "https://github.com/Around25/react-native-amplitude-android",
+  "keywords": [
+    "react-native",
+    "android",
+    "library"
+  ],
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.38.0"
+  }
+}
